@@ -126,7 +126,7 @@ class Painel(ctk.CTk):
         self.label_resultado.configure(text="Consultando...")
 
         try:
-            url = f"https://brasilapi.com.br/api/cnpj/v1/{cnpj_limpo}"
+            url = f"http://localhost:8000/cnpj/{cnpj_limpo}"
             resposta = requests.get(url, timeout=10)
             dados = resposta.json()
 
