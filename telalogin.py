@@ -4,9 +4,13 @@ from Painel import Painel
 class TelaLogin(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Login")
+        self.title("Sistema de Login")
         self.geometry("400x300")
         self.resizable(False, False)
+        try:  
+            self.iconbitmap("senha.ico")
+        except:
+            pass
 
         ctk.CTkLabel(self, text="Usuário").pack(pady=(40, 5))
         self.entry_user = ctk.CTkEntry(self, width=250)
