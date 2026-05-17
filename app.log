@@ -1,0 +1,25 @@
+2026-05-17 01:31:49,149 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-17 01:31:49,164 - Added job "atualizar_empresas_antigas" to job store "default"
+2026-05-17 01:31:49,164 - Scheduler started
+2026-05-17 01:31:50,280 - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-17 01:31:50,283 - Added job "atualizar_empresas_antigas" to job store "default"
+2026-05-17 01:31:50,283 - Scheduler started
+2026-05-17 01:34:11,984 - Empresa 11222333000181 salva
+2026-05-17 01:35:42,144 - Empresa 00000000000191 salva
+2026-05-17 01:40:26,106 - Empresa 11222333000181 deletada
+2026-05-17 01:41:17,776 - Empresa 11222333000181 salva
+2026-05-17 01:41:55,637 - Empresa 33000167000101 salva
+2026-05-17 01:42:17,547 - Empresa 00360305000104 salva
+2026-05-17 01:42:43,694 - Empresa 02558157000162 salva
+2026-05-17 01:42:58,181 - Empresa 47508411000156 salva
+2026-05-17 01:43:45,713 - Empresa 00776574000156 salva
+2026-05-17 01:44:06,519 - Erro ao buscar CNPJ 02449992000154: 400 Client Error: Bad Request for url: https://brasilapi.com.br/api/cnpj/v1/02449992000154
+2026-05-17 01:44:07,791 - Erro ao buscar CNPJ 02449992000154: 400 Client Error: Bad Request for url: https://brasilapi.com.br/api/cnpj/v1/02449992000154
+2026-05-17 01:44:09,480 - Erro ao buscar CNPJ 02449992000154: 400 Client Error: Bad Request for url: https://brasilapi.com.br/api/cnpj/v1/02449992000154
+2026-05-17 01:44:17,290 - Empresa 04206050000180 salva
+2026-05-17 01:44:30,595 - Empresa 33041260065290 salva
+2026-05-17 01:44:39,081 - Empresa 07526557000100 salva
+2026-05-17 01:44:48,661 - Empresa 18236120000158 salva
+2026-05-17 01:45:03,174 - Empresa 60746948000112 salva
+2026-05-17 01:45:20,388 - Scheduler has been shut down
+2026-05-17 01:45:20,553 - Scheduler has been shut down
